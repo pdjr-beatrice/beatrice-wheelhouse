@@ -1,4 +1,4 @@
-# wheelhouse
+# beatrice-wheelhouse
 Proposal for an aluminium half-wheelhouse wheelhouse to replace original
 iroko construction.
 
