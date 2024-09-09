@@ -13,7 +13,7 @@ The
 [renders](./renders/)
 folder contains some emerging images.
 
-See [Issues](#issues) for current and emerging issues.
+See [Issues](./issues) for current and emerging issues.
 
 ## Requirements
 
