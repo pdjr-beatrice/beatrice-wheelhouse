@@ -2,6 +2,8 @@
 Proposal for an aluminium half-wheelhouse wheelhouse to replace original
 iroko construction.
 
+![alt text](renders/wheelhouse_2024-Sep-01_04-26-34PM-000_CustomizedView16561039335.png)
+
 The
 [drawings](./drawings/)
 folder contains the emerging 3D design maintained in
