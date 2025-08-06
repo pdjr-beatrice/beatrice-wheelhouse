@@ -19,7 +19,7 @@ original wheelhouse and supports the phased build of a replacement
 wheelhouse by specifying a roof that will integrate with the
 original timber structure.
 
-The design proposal is being developed as a 3D model in
+The design proposal is implemented as a 3D model in
 [Autodesk Fusion](https://www.autodesk.com/products/fusion-360/personal).
 
 The
