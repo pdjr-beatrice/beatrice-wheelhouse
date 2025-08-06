@@ -9,9 +9,9 @@ The structure installs by hinges to an iroko plinth fixed to the
 underlying steel hull.
 
 This project proposes a design which retains the aesthetic of the
-original wheelhouse and retains its
+original wheelhouse and adopts its
 [structural organisation](./exports/PNG/general-arrangement.png).
-In particular, the proposed design retains the iroko plinth of the
+In particular, the proposed design uses the iroko plinth of the
 original wheelhouse and supports the phased build of a replacement
 wheelhouse by specifying a roof that will integrate with the
 original timber structure.
