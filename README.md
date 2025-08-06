@@ -19,7 +19,7 @@ The design proposal is being developed as a 3D model in
 [Autodesk Fusion](https://www.autodesk.com/products/fusion-360/personal).
 
 The
-[render](./exports/)
+[exports](./exports/)
 folder contains PNG, DWG and PDF renders of the underlying Fusion
 design.
 
