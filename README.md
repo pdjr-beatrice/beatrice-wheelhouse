@@ -25,9 +25,7 @@ design.
 
 ## Overview
 
-The wheelhouse roof and walls are considered separately: in particular, an implementation of the roof design will  en
-
-1. Aluminium, fully glazed, isolated, fixed, half-wheelhouse.
+1. Aluminium or composite, fully glazed, isolated, fixed, half-wheelhouse.
 2. Two half-split doors to port and starboard side decks.
 3. Twin assymmetric doors to aft deck.
 4. Double/triple glazing.
