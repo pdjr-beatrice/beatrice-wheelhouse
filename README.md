@@ -1,3 +1,5 @@
+<img src="./exports/PNG/wheelhouse-wall-panels.png" width="30%" align="right"/>
+
 # beatrice-wheelhouse
 
 Project to build a new half-wheelhouse for BEATRICE OF HULL.
