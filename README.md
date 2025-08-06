@@ -11,10 +11,9 @@ underlying steel hull.
 This project proposes a design which retains the aesthetic of the
 original wheelhouse and adopts much of its structural organisation.
 In particular, the proposed design retains the iroko plinth of the
-original wheelhouse as foundation for the new structure.
-
-The design supports the phased build of a replacement wheelhouse by
-specifying a roof that will integrate with the existing timber walls.
+original wheelhouse and supports a phased build of a replacement
+wheelhouse by specifying a roof that will integrate with the
+original timber structure.
 
 The design proposal is being developed as a 3D model in
 [Autodesk Fusion](https://www.autodesk.com/products/fusion-360/personal).
