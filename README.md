@@ -19,14 +19,8 @@ specifying a roof that will integrate with the existing timber walls.
 
 ![alt text](renders/wheelhouse_2024-Sep-01_04-26-34PM-000_CustomizedView16561039335.png)
 
-The design proposal is being developed as a 3D model in
-[Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/personal)
-and is available in the
-[model](./model) folder.
-
-The
-[drawings](./drawings/)
-folder contains Fusion drawings derived from the 3D model.
+The design proposal is being developed in
+[Autodesk Fusion](https://www.autodesk.com/products/fusion-360/personal).
 
 The
 [render](./renders/)
